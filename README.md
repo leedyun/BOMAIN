@@ -8,7 +8,7 @@
 
 | **이도현** | **강호정** | **기은빈** | **김봄** | **장수민** |
 | :------: |  :------: | :------: | :------: | :------: |
-| [<img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" height=150 width=150> <br/> @leedyun](https://github.com/leedyun) | [<img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" height=150 width=150> <br/> @강호정](https://github.com/) | [<img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" height=150 width=150> <br/> @기은빈](https://github.com/) | [<img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" height=150 width=150> <br/> @김봄](https://github.com/) | [<img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" height=150 width=150> <br/> @장수민](https://github.com/) |
+| [<img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" height=150 width=150> <br/> @leedyun](https://github.com/leedyun) | [<img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" height=150 width=150> <br/> @hojeong26](https://github.com/hojeong26) | [<img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" height=150 width=150> <br/> @기은빈](https://github.com/) | [<img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" height=150 width=150> <br/> @김봄](https://github.com/) | [<img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" height=150 width=150> <br/> @장수민](https://github.com/) |
 
 </div>
 
